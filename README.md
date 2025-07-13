@@ -31,10 +31,12 @@ Whether it's designing a backend service, writing clean API integrations, buildi
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
 #
 ## 📊 Stats
 
-![X86's GitHub stats](https://github-readme-stats.vercel.app/api?username=x86finn&show_icons=true&theme=shadow_green )
+![X86's GitHub stats](https://github-readme-stats.vercel.app/api?username=x86finn&show_icons=true&theme=)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ParinhaHong)
 
