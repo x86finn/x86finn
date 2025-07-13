@@ -33,7 +33,7 @@
 #
 ## 📊 Stats
 
-
+![X86's GitHub stats](https://github-readme-stats.vercel.app/api?username=x86finn&show_icons=true&theme=gruvbox)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ParinhaHong)
 
