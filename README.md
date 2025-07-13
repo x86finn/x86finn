@@ -38,7 +38,7 @@
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ParinhaHong)
 
 ### 📺 Latest YouTube Videos
-[![Rick Astley - Never Gonna Give You Up (Official Music Video)](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch? v=dQw4w9WgXcQ "Rick Astley - Never Gonna Give You Up (Official Music Video)")
+[![Codeforce Problem (easy problem) | Khmer 2025](https://www.youtube.com/watch?v=VIDEO_ID&list=PLAYLIST_ID&index=19)](http://www.youtube.com/watch?v=ZR5re19-nFQ "Codeforce Problem (easy problem) | Khmer 2025")
 
 <detail>
   <summary><h3>My Coding journey</h3></summary>
