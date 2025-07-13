@@ -1,12 +1,11 @@
 <h1 color="blue">⭐ Hello , My name is Finn</h1>
 
  ``Open source developer / UxUi designer / Freelancer Developer`` 
-<p align="center">
-  <a href="https://www.youtube.com/@ParinhaHong"> <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCEnaqqlu4IrrE46mGkWo0qA?style=for-the-badge&label=Subscribers"/></a>
-  <a href="https://www.youtube.com/@ParinhaHong"> <img alt="youtube views" title="YouTube views" src="PATH_TO_YOUR_YOUTUBE_VIEWS_BADGE_IMAGE_OR_SERVICE"/></a> 
-</p>
 
   hello my name is finn and I'm the open source developer and a UxUi designer . I've done the CS      degree but i work in UxUi design roles thank for reading this . I like to learn programming         language and it is my biggest hobby is doing . All my video are my hobbies my content are on my     youtube channe is <a href="https://www.youtube.com/@ParinhaHong">Parinha Hong</a>
+
+ [![YouTube Subscribers](https://youtube-badge-generator.com/badge?channel_id=UCEnaqqlu4IrrE46mGkWo0qA&style=flat&label=Subscribers)](https://www.youtube.com/channel/UCEnaqqlu4IrrE46mGkWo0qA)
+
 
 ## 📦languages and tools
 
