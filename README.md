@@ -37,6 +37,9 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ParinhaHong)
 
+### 📺 Latest YouTube Videos
+[![Rick Astley - Never Gonna Give You Up (Official Music Video)](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch? v=dQw4w9WgXcQ "Rick Astley - Never Gonna Give You Up (Official Music Video)")
+
 <detail>
   <summary><h3>My Coding journey</h3></summary>
   I started coding in 2017 and i learn html and css then i start move into javascript and c++ and python in the same time then i have a burn out but after 4 weeks but i keep coding and now im a software engineer and a open source developer
