@@ -3,15 +3,9 @@
 
   hello my name is finn and I'm the open source developer and a UxUi designer . I've done the CS      degree but i work in UxUi design roles thank for reading this . I like to learn programming         language and it is my biggest hobby is doing . All my video are my hobbies my content are on my     youtube channe is <a href="https://www.youtube.com/@ParinhaHong">Parinha Hong</a>
 
-<h2 align="center">⛏️ TOOLS</h2>
+<h3 align="center">⛏️ TOOLS</h3>
 
-<stop stop-color="#37AEE2"/>
-<stop offset="1" stop-color="#1E96C8"/>
-</linearGradient>
-</defs>
-</svg>
-
-<h2 align="center">📊 Stats</h2>
+<h3>📊 Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
 
