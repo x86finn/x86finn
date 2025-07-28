@@ -3,7 +3,7 @@
  ``Open source developer / UxUi designer / Freelancer Developer`` 
 
  I'm a Software Engineer, Freelancer, and Penetration Tool Developer passionate about building fast, efficient, and secure systems. With a strong foundation in C++, Python, and low-level system development, I specialize in creating tools for ethical hacking, cybersecurity testing, and performance-critical applications.
-Whether it's designing a backend service, writing clean API integrations, building developer-focused utilities, or crafting penetration testing tools, I focus on precision, minimalism, and raw performance. I'm currently open to freelance projects that require deep technical understanding and creative problem-solving.<a href="https://www.youtube.com/@ParinhaHong">Parinha Hong</a>
+Whether it's designing a backend service, writing clean API integrations, building developer-focused utilities, or crafting penetration testing tools, I focus on precision, minimalism, and raw performance. I'm currently open to freelance projects that require deep technical understanding and creative problem-solving.
 
 
 ## 🧰 Languages and Tools
