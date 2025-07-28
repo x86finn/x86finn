@@ -5,12 +5,6 @@
  I'm a Software Engineer, Freelancer, and Penetration Tool Developer passionate about building fast, efficient, and secure systems. With a strong foundation in C++, Python, and low-level system development, I specialize in creating tools for ethical hacking, cybersecurity testing, and performance-critical applications.
 Whether it's designing a backend service, writing clean API integrations, building developer-focused utilities, or crafting penetration testing tools, I focus on precision, minimalism, and raw performance. I'm currently open to freelance projects that require deep technical understanding and creative problem-solving.<a href="https://www.youtube.com/@ParinhaHong">Parinha Hong</a>
 
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCEnaqqlu4IrrE46mGkWo0qA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEnaqqlu4IrrE46mGkWo0qA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.youtube.com/channel/UCEnaqqlu4IrrE46mGkWo0qA">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEnaqqlu4IrrE46mGkWo0qA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-</p>
 
 ## 🧰 Languages and Tools
 
